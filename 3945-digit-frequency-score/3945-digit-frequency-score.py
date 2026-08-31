@@ -6,9 +6,9 @@ class Solution(object):
         """
         freq={}
         li=list(str(n))
-        mi=[]
+        mi=0
         for i in li:
             freq[int(i)]=freq.get(int(i),0)+1
         for key,value in freq.items():
-            mi.append(key*value)
-        return sum(mi)
+            mi+=key*value
+        return mi
