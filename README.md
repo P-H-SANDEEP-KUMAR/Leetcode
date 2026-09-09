@@ -23,8 +23,13 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0704-binary-search](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
