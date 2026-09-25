@@ -26,6 +26,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/P-H-SANDEEP-KUMAR/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
